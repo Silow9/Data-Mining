@@ -1,0 +1,25 @@
+Group,Team,Country_Name_Short,First match against,Second match against,Third match against
+A,Germany,GER,Scotland,Hungary,Switzerland
+A,Hungary,HUN,Switzerland,Germany,Scotland
+A,Scotland,SCO,Germany,Switzerland,Hungary
+A,Switzerland,SUI,Hungary,Scotland,Germany
+B,Spain,ESP,Albania,Croatia,Italy
+B,Albania,ALB,Spain,Italy,Croatia
+B,Croatia,CRO,Italy,Spain,Albania
+B,Italy,ITA,Croatia,Albania,Spain
+C,England,ENG,Denmark,Slovenia,Serbia
+C,Denmark,DEN,England,Serbia,Slovenia
+C,Slovenia,SLO,Serbia,England,Denmark
+C,Serbia,SRB,Slovenia,Denmark,England
+D,France,FRA,Austria,Netherlands,Poland
+D,Austria,AUT,France,Poland,Netherlands
+D,Netherlands,NED,Poland,France,Austria
+D,Poland,POL,Netherlands,Austria,France
+E,Belgium,BEL,Romania,Slovakia,Ukraine
+E,Romania,ROU,Belgium,Ukraine,Slovakia
+E,Slovakia,SVK,Ukraine,Belgium,Romania
+E,Ukraine,UKR,Slovakia,Romania,Belgium
+F,Portugal,POR,Turkey,Czech Republic,Georgia
+F,Turkey,TUR,Portugal,Georgia,Czech Republic
+F,Czech Republic,CZE,Georgia,Portugal,Turkey
+F,Georgia,GEO,Czech Republic,Turkey,Portugal

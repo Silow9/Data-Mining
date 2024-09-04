@@ -1,0 +1,25 @@
+Group,Flag_Image,Team,Country_Name_Short,First match against,Second match against,Third match against
+A,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/QAT?tx=c_fill,g_auto,q_auto",Germany,GER,Scotland,Hungary,Switzerland
+A,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ECU?tx=c_fill,g_auto,q_auto",Hungary,HUN,Switzerland,Germany,Scotland
+A,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/SEN?tx=c_fill,g_auto,q_auto",Scotland,SCO,Germany,Switzerland,Hungary
+A,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/NED?tx=c_fill,g_auto,q_auto",Switzerland,SUI,Hungary,Scotland,Germany
+B,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ENG?tx=c_fill,g_auto,q_auto",Spain,ESP,Albania,Croatia,Italy
+B,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/IRN?tx=c_fill,g_auto,q_auto",Albania,ALB,Spain,Italy,Croatia
+B,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/USA?tx=c_fill,g_auto,q_auto",Croatia,CRO,Italy,Spain,Albania
+B,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/WAL?tx=c_fill,g_auto,q_auto",Italy,ITA,Croatia,Albania,Spain
+C,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ARG?tx=c_fill,g_auto,q_auto",England,ENG,Denmark,Slovenia,Serbia
+C,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/KSA?tx=c_fill,g_auto,q_auto",Denmark,DEN,England,Serbia,Slovenia
+C,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/MEX?tx=c_fill,g_auto,q_auto",Slovenia,SLO,Serbia,England,Denmark
+C,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/POL?tx=c_fill,g_auto,q_auto",Serbia,SRB,Slovenia,Denmark,England
+D,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/FRA?tx=c_fill,g_auto,q_auto",France,FRA,Austria,Netherlands,Poland
+D,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/DEN?tx=c_fill,g_auto,q_auto",Austria,AUT,France,Poland,Netherlands
+D,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/TUN?tx=c_fill,g_auto,q_auto",Netherlands,NED,Poland,France,Austria
+D,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/AUS?tx=c_fill,g_auto,q_auto",Poland,POL,Netherlands,Austria,France
+E,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ESP?tx=c_fill,g_auto,q_auto",Belgium,BEL,Romania,Slovakia,Ukraine
+E,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/GER?tx=c_fill,g_auto,q_auto",Romania,ROU,Belgium,Ukraine,Slovakia
+E,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/JPN?tx=c_fill,g_auto,q_auto",Slovakia,SVK,Ukraine,Belgium,Romania
+E,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CRC?tx=c_fill,g_auto,q_auto",Ukraine,UKR,Slovakia,Romania,Belgium
+F,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/BEL?tx=c_fill,g_auto,q_auto",Portugal,POR,Turkey,Czech Republic,Georgia
+F,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CAN?tx=c_fill,g_auto,q_auto",Turkey,TUR,Portugal,Georgia,Czech Republic
+F,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/MAR?tx=c_fill,g_auto,q_auto",Czech Republic,CZE,Georgia,Portugal,Turkey
+F,"https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CRO?tx=c_fill,g_auto,q_auto",Georgia,GEO,Czech Republic,Turkey,Portugal
